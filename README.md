@@ -114,6 +114,7 @@ git clone https: https://github.com/AyuskaSaha/Forest-Fire-Detector
 `cd your-repo-name`
 
 2️⃣ Create a Virtual Environment (Recommended)
+
 `python -m venv venv`
 
 
