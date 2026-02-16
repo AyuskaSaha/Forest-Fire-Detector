@@ -109,33 +109,34 @@ Explainable AI (Grad-CAM visualization)
 
 # Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https: https://github.com/AyuskaSaha/Forest-Fire-Detector
+
 `cd your-repo-name`
 
 2️⃣ Create a Virtual Environment (Recommended)
-python -m venv venv
+`python -m venv venv`
 
 
 Activate it:
 
 Windows
 
-venv\Scripts\activate
+`venv\Scripts\activate`
 
 
 Mac/Linux
 
-source venv/bin/activate
+`source venv/bin/activate`
 
 3️⃣ Install Dependencies
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ▶️ Running the Project
 🔹 Train the Model
-python train.py
+`python train.py`
 
 🔹 Run Inference on an Image
-python predict.py --image sample.jpg
+`python predict.py` --image sample.jpg
 
 
 Expected Output:
