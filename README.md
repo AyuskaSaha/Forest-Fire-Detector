@@ -1,7 +1,7 @@
 # Forest-Fire-Detector
 Engineered a low-latency CNN-based wildfire detection system using MobileNetV2 transfer learning for binary satellite image classification. Built a custom data standardization pipeline to resolve TensorFlow encoding issues. Achieved 97.2% validation accuracy with strong generalization and fast, deployment-ready inference.
 
-AI-Based Wildfire Detection using MobileNetV2 (Transfer Learning).
+AI-Based Wildfire Detection using MobileNetV2 (Transfer Learning)
 # Overview
 
 This project presents a low-latency, high-accuracy automated system for binary wildfire detection in satellite imagery. The model leverages Transfer Learning with MobileNetV2 (ImageNet pretrained) to classify images as Wildfire or No Wildfire.
