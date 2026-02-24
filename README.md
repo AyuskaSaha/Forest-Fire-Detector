@@ -58,13 +58,13 @@ Optimizer: Adam
 
 # Data Preprocessing Pipeline
 
-Image resizing to model input dimensions
+1)Image resizing to model input dimensions
 
-Pixel normalization
+2)Pixel normalization
 
-Non-standard JPEG format correction
+3)Non-standard JPEG format correction
 
-Dataset validation and encoding consistency checks
+4)Dataset validation and encoding consistency checks
 
 # Performance
 
