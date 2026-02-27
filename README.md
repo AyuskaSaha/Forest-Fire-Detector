@@ -11,15 +11,15 @@ A custom data standardization pipeline was engineered to resolve TensorFlow JPEG
 
 # Key Features
 
-Binary classification: Wildfire vs. No Wildfire
+1.Binary classification: Wildfire vs. No Wildfire
 
-Transfer Learning using MobileNetV2
+2.Transfer Learning using MobileNetV2
 
-Custom image preprocessing & JPEG standardization pipeline
+3.Custom image preprocessing & JPEG standardization pipeline
 
-Optimized for low latency inference
+4.Optimized for low latency inference
 
-Deployment-ready lightweight architecture
+5.Deployment-ready lightweight architecture
 
 # Tech Stack
 
